@@ -1,35 +1,120 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=junha's%20github&animation=&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Backend Developer </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> <li> 문제를 끝까지 파고드는 백엔드 개발자 </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <br/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/junha0729> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/junha0729"> </a>
-         <a href=https://velog.io/@uhihi/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@uhihi/posts"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">
-        <a href="https://solved.ac/profile/uhihi"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhihi"/> </a>
-        <a href="https://solved.ac/profile/uhihi"> <img src="http://mazandi.herokuapp.com/api?handle=uhihi&theme=warm"/> </a>
-        <img src="https://github-readme-stats.vercel.app/api?username=uhihi09&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhihi09&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-    </div> 
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&text=Junha%20Bae&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=문제를%20끝까지%20파고드는%20백엔드%20개발자&descAlignY=60&descSize=18&descColor=a8d8ea" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-uhihi09.github.io-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://uhihi09.github.io/portfolio/)
+  [![Email](https://img.shields.io/badge/Email-junhabae0729@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junhabae0729@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-junha0729-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junha0729)
+  [![Velog](https://img.shields.io/badge/Velog-uhihi-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@uhihi/posts)
+
+</div>
+
+---
+
+## 👋 About Me
+
+```python
+developer = {
+    "name"     : "배준하 (Junha Bae)",
+    "school"   : "대구소프트웨어마이스터고 인공지능소프트웨어개발과 2학년",
+    "role"     : "Backend Developer interested in AI",
+    "motto"    : "문제를 끝까지 파고드는 개발자",
+    "club"     : "DUCAMI 교육 봉사 동아리 활동 중"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚡ Main
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### ☁️ DevOps & Infra
+<div align="center">
+
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+### 🔬 AI / ML
+<div align="center">
+
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+### 📚 Knowledgeable
+<div align="center">
+
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+| 프로젝트 | 설명 | 기간 | 스택 |
+|---|---|---|---|
+| [머신러닝 기반 리눅스 스케줄러](https://junha-research.notion.site) | 워크로드 특성에 따라 최적 스케줄링 정책 자동 선택 · 분류 정확도 85% | 2025.11 ~ | Python, scikit-learn, Linux |
+| [GrowMoney](https://github.com/Team-Oh-Yes) | NFT 거래 기반 경제 교육 플랫폼 · 7인 팀 개발팀장 | 2025.07 ~ 2025.12 | Spring Boot, MySQL, AWS, Docker |
+---
+
+## 🏅 Stats
+
+<div align="center">
+  <a href="https://solved.ac/profile/uhihi">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhihi"/>
+  </a>
+  <a href="https://solved.ac/profile/uhihi">
+    <img src="http://mazandi.herokuapp.com/api?handle=uhihi&theme=warm"/>
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uhihi09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uhihi09&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+---
+
+## 🏆 Awards & Certifications
+
+<div align="center">
+
+| 구분 | 내용 | 일자 |
+|---|---|---|
+| 📜 자격증 | SQLD (SQL 개발자) | 2025.11 |
+| 🥇 수상 | 2025 대구-광주 달빛연합 SW융합 학생 해커톤 | 2025.10 |
+| 🥇 수상 | 2025 청춘어람 프로젝트 Newrrow 최우수상 | 2025.07 |
+| 🥇 수상 | 2025 교내 노벨 엔지니어링 해커톤 장려상 | 2025.07 |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</div>
