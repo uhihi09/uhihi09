@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&text=Junha%20Bae&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=문제를%20끝까지%20파고드는%20백엔드%20개발자&descAlignY=60&descSize=18&descColor=a8d8ea" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&text=Junha%20Bae&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=병목을%20찾아%20수치로%20개선하는%20개발자&descAlignY=60&descSize=18&descColor=a8d8ea" />
 </div>
 
 <br/>
