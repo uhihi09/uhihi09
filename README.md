@@ -22,7 +22,7 @@ developer = {
     "name"     : "배준하 (Junha Bae)",
     "school"   : "대구소프트웨어마이스터고 인공지능소프트웨어개발과 2학년",
     "role"     : "Backend Developer interested in AI",
-    "motto"    : "문제를 끝까지 파고드는 개발자",
+    "motto"    : "병목을 찾아 수치로 개선하는 개발자",
     "club"     : "DUCAMI 교육 봉사 동아리 활동 중"
 }
 ```
