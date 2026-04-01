@@ -80,7 +80,7 @@ developer = {
 
 | 프로젝트 | 설명 | 기간 | 스택 |
 |---|---|---|---|
-| [머신러닝 기반 리눅스 스케줄러](https://junha-research.notion.site) | 워크로드 특성에 따라 최적 스케줄링 정책 자동 선택 | 2025.11 ~ | Python, scikit-learn, Linux |
+| [머신러닝 기반 리눅스 스케줄러 논문](https://junha-research.notion.site) | 워크로드 특성에 따라 최적 스케줄링 정책 자동 선택 | 2025.11 ~ | Python, scikit-learn, Linux |
 | [GrowMoney](https://github.com/Team-Oh-Yes) | NFT 거래 기반 경제 교육 플랫폼 · 7인 팀 개발팀장 | 2025.07 ~ 2025.12 | Spring Boot, MySQL, AWS, Docker |
 ---
 
