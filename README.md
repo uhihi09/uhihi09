@@ -88,10 +88,10 @@ developer = {
 
 <div align="center">
   <a href="https://solved.ac/profile/uhihi">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=uhihi"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=uhihi"/>
   </a>
   <a href="https://solved.ac/profile/uhihi">
-    <img src="http://mazandi.herokuapp.com/api?handle=uhihi&theme=warm"/>
+    <img src="https://mazandi.vercel.app/api?handle=uhihi&theme=warm"/>
   </a>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=uhihi09&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
