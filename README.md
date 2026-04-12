@@ -84,16 +84,6 @@ developer = {
 | [GrowMoney](https://github.com/Team-Oh-Yes) | NFT 거래 기반 경제 교육 플랫폼 · 7인 팀 개발팀장 | 2025.07 ~ 2025.12 | Spring Boot, MySQL, AWS, Docker |
 ---
 
-## 🏅 Stats
-
-<div align="center">
-  <a href="https://solved.ac/profile/uhihi">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=uhihi"/>
-  </a>
-</div>
-
----
-
 ## 🏆 Awards & Certifications
 
 <div align="center">
