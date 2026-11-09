@@ -1,110 +1,66 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&text=Junha%20Bae&animation=fadeIn&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=병목을%20찾아%20수치로%20개선하는%20개발자&descAlignY=60&descSize=18&descColor=a8d8ea" />
-</div>
+# 배준하 · Junha Bae
 
-<br/>
+병목을 찾아 수치로 개선하는 백엔드 개발자입니다.<br>
+FastAPI와 Spring Boot로 서버를 만들고, 운영 로그로 지연을 계측해서 고칩니다.
 
-<div align="center">
+대구소프트웨어마이스터고 인공지능소프트웨어과 2학년<br>
+[Portfolio](https://uhihi09.github.io/portfolio/) · [Baekjoon](https://solved.ac/profile/uhihi) · [junhabae0729@gmail.com](mailto:junhabae0729@gmail.com)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-uhihi09.github.io-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://uhihi09.github.io/portfolio/)
-  [![Email](https://img.shields.io/badge/Email-junhabae0729@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junhabae0729@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-junha0729-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junha0729)
-  [![Velog](https://img.shields.io/badge/Velog-uhihi-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@uhihi/posts)
+## 지금 하는 일
 
-</div>
+- **바다** AI 전화 훈련 앱의 실시간 음성통화 서버를 운영합니다. 11월에는 웨어러블 생체신호(HRV·EDA·PPG) 분석 API를 운영 서버에 붙였습니다.
+- **두깨비** DUCAMI 10기 부장으로, 동아리 온라인 저지를 처음부터 다시 만드는 일을 이끌고 있습니다. 12월 마무리가 목표입니다.
+- **논문** 머신러닝 기반 리눅스 스케줄러 정책 선택 연구를 투고 준비 중입니다.
 
----
+## 프로젝트
 
-## 👋 About Me
+### 바다 — 콜포비아 극복 AI 전화 훈련 앱
 
-```python
-developer = {
-    "name"     : "배준하 (Junha Bae)",
-    "school"   : "대구소프트웨어마이스터고 인공지능소프트웨어과 2학년",
-    "role"     : "Backend Developer interested in AI",
-    "motto"    : "병목을 찾아 수치로 개선하는 개발자",
-    "club"     : "DUCAMI 교육 봉사 동아리 활동 중"
-}
-```
+2026.03 – 진행 중 · 2학년 나르샤 · 백엔드 팀장 (6명) · [서버 코드](https://github.com/ChickenMayoDeopbab/BADA_FASTAPI_SERVER) · [Google Play](https://play.google.com/store/apps/details?id=com.chickenmayodeopbab.bada.play)
 
----
+STT → LLM → TTS를 하나의 WebSocket 세션에서 스트리밍하는 FastAPI 실시간 음성통화 서버를 설계하고 운영합니다.
 
-## 🛠️ Tech Stack
+- 통화 첫 턴 응답 2,437ms → 1,320ms. 구간별 지연을 계측해 78%가 LLM 첫 토큰 대기임을 찾고, 연결 직후 LLM을 미리 깨웠습니다.
+- 학교 GPU 서버에 Qwen3-TTS 워커 풀을 만들고 ElevenLabs 폴백을 두어, 동시 통화를 1 → 4로 늘렸습니다.
 
-### ⚡ Main
-<div align="center">
+### GrowMoney — 청소년 경제 학습 플랫폼
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+2025.07 – 2025.12 · 1학년 나르샤 · 개발팀장 (7명) · [GitHub](https://github.com/Team-Oh-Yes)
 
-</div>
+Spring Boot 백엔드 API와 MySQL 스키마를 설계하고, 팀원들에게 Git 워크플로우를 가르쳤습니다.
 
-### ☁️ DevOps & Infra
-<div align="center">
+- JPA N+1을 Fetch Join으로 풀어 쿼리 100+ → 1~3개, 응답 320ms → 64ms.
+- GitHub Actions 자동 배포로 배포 시간 30분 → 3분.
 
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 머신러닝 기반 리눅스 스케줄러 정책 선택 — 개인 연구
 
-</div>
+2025.11 – 진행 중 · 투고 준비 중 · [논문 초안](https://junha-research.notion.site)
 
-### 🔬 AI / ML
-<div align="center">
+결정 트리로 워크로드를 분류하고, 커널 수정 없이 nice 값과 스케줄링 클래스를 바꿔 정책을 적용합니다.
 
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+- 16개 합성 워크로드 실험에서 분류 정확도 85%, 작업 완료 시간 3.8s → 2.75s (28% 단축).
 
-</div>
+### 그 외
 
-### 📚 Knowledgeable
-<div align="center">
+- **A&K Systems** 실리콘밸리 온라인 인턴십, 백엔드 인턴 (2026.01 – 2026.02). 기술 문서 PDF를 교육용 슬라이드로 바꾸는 AI 파이프라인에서 이미지 검색을 파일명 일치에서 sentence-transformers 시맨틱 검색으로 바꿨습니다.
+- **[harness-cli](https://github.com/uhihi09/harness-cli)** AI 코딩 에이전트용 하네스(plan → construct → test, 검증 게이트)를 명령 하나로 까는 CLI. v0.6.0
+- **알고리즘** 백준 Gold 4, 750문제
 
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## 기술
 
-</div>
+- **Backend** FastAPI (Python), Spring Boot · JPA (Java)
+- **Data** PostgreSQL, MySQL, Redis
+- **Infra** Docker, GitHub Actions, AWS (EC2, S3)
+- **Realtime / AI** WebSocket 스트리밍, STT·LLM·TTS 연동, scikit-learn
 
----
+## 활동 · 수상 · 자격
 
-## 🚀 Projects
+DUCAMI 코딩 교육봉사 동아리 10기 부장 · 1학년 GitHub 멘토링 · 중학생 대상 Python 진로체험 강사
 
-| 프로젝트 | 설명 | 기간 | 스택 |
-|---|---|---|---|
-| [머신러닝 기반 리눅스 스케줄러 논문](https://junha-research.notion.site) | 워크로드 특성에 따라 최적 스케줄링 정책 자동 선택 | 2025.11 ~ | Python, scikit-learn, Linux |
-| [GrowMoney](https://github.com/Team-Oh-Yes) | NFT 거래 기반 경제 교육 플랫폼 · 7인 팀 개발팀장 | 2025.07 ~ 2025.12 | Spring Boot, MySQL, AWS, Docker |
----
+- 2026.06 제8회 교육 공공데이터 AI활용대회 우수상
+- 2025.11 SQLD 취득 · TOPCIT 3수준
+- 2025.10 대구-광주 달빛연합 SW융합 학생 해커톤 창의상
+- 2025.07 청춘어람 프로젝트 Newrrow 최우수상
+- 2025.07 교내 노벨 엔지니어링 해커톤 장려상
 
-## 🏆 Awards & Certifications
-
-<div align="center">
-
-| 구분 | 내용 | 일자 |
-|---|---|---|
-| 📜 자격증 | SQLD (SQL 개발자) | 2025.11 |
-| 🥇 수상 | 2025 대구-광주 달빛연합 SW융합 학생 해커톤 창의상 | 2025.10 |
-| 🥇 수상 | 2025 청춘어람 프로젝트 Newrrow 최우수상 | 2025.07 |
-| 🥇 수상 | 2025 교내 노벨 엔지니어링 해커톤 장려상 | 2025.07 |
-
-</div>
-
----
-
-![](https://komarev.com/ghpvc/?username=uhihi09&color=blue)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</div>
+<sub>2026.11 업데이트</sub>
