@@ -18,7 +18,7 @@ FastAPI와 Spring Boot로 서버를 만들고, 운영 로그를 통해 지연을
 
 2026.03 – 진행 중 · 2학년 나르샤 · 백엔드 팀장 (6명) · [서버 코드](https://github.com/ChickenMayoDeopbab/BADA_FASTAPI_SERVER) · [Google Play](https://play.google.com/store/apps/details?id=com.chickenmayodeopbab.bada.play)
 
-STT → LLM → TTS를 하나의 WebSocket 세션에서 스트리밍하는 FastAPI 실시간 음성통화 서버를 설계하고 운영합니다.
+STT → LLM → TTS를 하나의 WebSocket 세션에서 스트리밍하는 FastAPI 실시간 음성통화 서버를 설계하고 운영하였습니다.
 
 - 통화 첫 턴 응답 2,437ms → 1,320ms. 구간별 지연을 계측해 78%가 LLM 첫 토큰 대기임을 찾았고, 연결 직후 LLM을 미리 호출하도록 구현하였습니다.
 - 학교 GPU 서버에 Qwen3-TTS 워커 풀을 만들고 ElevenLabs 폴백을 두어, 동시 통화를 1 → 4로 늘렸습니다.
