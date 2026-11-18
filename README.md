@@ -1,7 +1,7 @@
 # 배준하 · Junha Bae
 
 병목을 찾아 수치로 개선하는 백엔드 개발자입니다.<br>
-FastAPI와 Spring Boot로 서버를 만들고, 운영 로그를 통해 지연을 계측 후 개선합니다.
+FastAPI와 Spring Boot로 서버를 만들고, 운영 로그를 통해 지연을 계측 후 개선한 경험이 많습니다.
 
 대구소프트웨어마이스터고 인공지능소프트웨어과 2학년<br>
 [Portfolio](https://uhihi09.github.io/portfolio/) · [Baekjoon](https://solved.ac/profile/uhihi) · [junhabae0729@gmail.com](mailto:junhabae0729@gmail.com)
